@@ -38,8 +38,8 @@ You can view a live demo of the project [here](#).
 
 Here are some screenshots of the homepage clone:
 
-![Screenshot 1](path_to_image)
-![Screenshot 2](path_to_image)
+<img src="assets/Screenshots/img-1.png">
+<img src="assets/Screenshots/img-2.png">
 
 ## Acknowledgements
 
