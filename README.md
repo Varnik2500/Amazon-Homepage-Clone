@@ -24,7 +24,7 @@ You can view a live demo of the project [here](#).
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/amazon-homepage-clone.git
+   git clone https://github.com/Varnik2500/Amazon-Homepage-Clone.git
    ```
 
 2. Open the `index.html` file in your browser to view the page.
