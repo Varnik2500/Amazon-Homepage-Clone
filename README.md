@@ -13,7 +13,7 @@ This project is a clone of the Amazon homepage, built using only **HTML** and **
 
 ## Demo
 
-You can view a live demo of the project [here](#).
+You can view a live demo of the project [here](https://amazon-homepage-clone-varnik.netlify.app/).
 
 ## Technologies Used
 
